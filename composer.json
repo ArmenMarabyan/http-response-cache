@@ -1,0 +1,11 @@
+{
+    "name": "armen/response-cache",
+    "description": "desc",
+    "authors": [
+        {
+            "name": "Armen Marabyan",
+            "email": "armen.marabyan1@gmail.com"
+        }
+    ],
+    "require": {}
+}
